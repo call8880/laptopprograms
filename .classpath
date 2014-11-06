@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/callum/Downloads/AFF540DC.Unpacker_v7353qx4kg3sa!App/BreezySwingAndTerminalIO.zip/BreezySwing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/callum/Downloads/AFF540DC.Unpacker_v7353qx4kg3sa!App/BreezySwingAndTerminalIO.zip/TerminalIO.jar"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/callum/Downloads/BreezySwing.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/callum/Downloads/core.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/callum/Downloads/G4P.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/callum/Downloads/hsa.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/callum/Downloads/TerminalIO.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/callum/Downloads/TurtleGraphics.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ICS4U
+Bundle-SymbolicName: ICS4U
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: ICS4U.jar,
+ callum/Downloads/AFF540DC.Unpacker_v7353qx4kg3sa!App/BreezySwingAndTerminalIO.zip/BreezySwing.jar,
+ callum/Downloads/AFF540DC.Unpacker_v7353qx4kg3sa!App/BreezySwingAndTerminalIO.zip/TerminalIO.jar,
+ callum/Documents/_jarfiles/BreezySwing.jar,
+ callum/Documents/_jarfiles/core.jar,
+ callum/Documents/_jarfiles/G4P.jar,
+ callum/Documents/_jarfiles/TerminalIO.jar,
+ callum/Documents/_jarfiles/TurtleGraphics.jar,
+ callum/Documents/_jarfiles/swt.jar,
+ callum/Documents/_jarfiles/swt-debug.jar
+Export-Package: Objects,
+ org.eclipse.wb.swing
