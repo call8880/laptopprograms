@@ -24,7 +24,7 @@ public class CrapsGui {
 	JLabel lblcash;
 	JLabel lbldiesum;
 	JButton btnRollDie;
-	private JScrollPane scrollPane;
+	JScrollPane scrollPane;
 	
 	/**
 	 * Launch the application.
