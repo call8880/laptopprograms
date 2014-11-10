@@ -23,9 +23,9 @@ public class Lucky7 {
 		
 		while(cash > 0){
 			
-			roll = d1.Roll() + d2.Roll();
-			if (roll == 7) cash += 4;
-			else cash--;
+		//	roll = d1.Roll() + d2.Roll();
+			//if (roll == 7) cash += 4;
+		//	else cash--;
 			rolls++;
 			
 			if (cash > max){
