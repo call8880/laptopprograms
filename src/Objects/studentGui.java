@@ -236,6 +236,16 @@ public class studentGui extends javax.swing.JFrame {
 			currentStudent++;
 			showStudent();
 		}
+	private void btnforwardsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnforeActionPerformed
+		if(currentStudent < s.length){
+			currentStudent = s.length();
+			showStudent();
+		}
+	private void btnforwardsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnforeActionPerformed
+		if(currentStudent > 0){
+			currentStudent = 0;
+			showStudent();
+		}
 	}//GEN-LAST:event_btnforeActionPerformed
 	private void btnmodActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnmodActionPerformed
 		studentPopup form = new studentPopup(this, true);
