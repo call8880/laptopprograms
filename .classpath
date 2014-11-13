@@ -11,5 +11,6 @@
 	<classpathentry exported="true" kind="lib" path="C:/Users/callum/Downloads/hsa.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/callum/Downloads/TerminalIO.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/callum/Downloads/TurtleGraphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/callum/Downloads/swt.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
